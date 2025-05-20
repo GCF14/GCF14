@@ -1,4 +1,6 @@
 ## Hi there, I'm Gerard Christian Felipe 👋
+Hi, I'm a Full Stack Developer, Researcher, and Computer Science Student with a passion for building impactful projects and exploring emerging technologies.
+I enjoy creating side projects that challenge me to learn and grow—whether it's developing full-stack applications, experimenting with new frameworks, or diving into research. I'm always looking for opportunities to innovate, collaborate, and turn ideas into working solutions.
 
 
 ## 🌐 Socials:
